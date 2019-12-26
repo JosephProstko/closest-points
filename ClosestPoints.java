@@ -78,7 +78,7 @@ public class ClosestPoints {
      * ArrayLists and reads in the data from the assigned file, using
      * the designated string.
      */
-    public ClosestPointsOld(String temp) {
+    public ClosestPoints(String temp) {
         // XOrder is instantiated as a new ArrayList of Point.Doubles.
         XOrder = new ArrayList<Point.Double>();
 
